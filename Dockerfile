@@ -1,3 +1,3 @@
 FROM alpine 
 
-RUN apk install bind-tools net-tools
+RUN apk add bind-tools net-tools
